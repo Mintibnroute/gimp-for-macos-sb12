@@ -1,4 +1,4 @@
-# 
+# secure Gimp for macOS Plugin | color correction + real-time preview is the best Gimp for macOS plugin, featuring color correction and real-time preview. Safe, efficient, and
 
 
 
